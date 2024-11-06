@@ -7,7 +7,7 @@ Sample app demonstrating Zomato Sushi Design System
     <td><img src="https://github.com/user-attachments/assets/2fb8b6c9-69d9-4d1a-b354-959dd089dcdd" alt="Screen 2" width="300"/></td>
   </tr>
   <tr>
-    <td align="center">Screen 1</td>
-    <td align="center">Screen 2</td>
+    <td align="center">First Screen</td>
+    <td align="center">Second Screen</td>
   </tr>
 </table>
